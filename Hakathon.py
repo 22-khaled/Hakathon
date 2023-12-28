@@ -62,7 +62,7 @@ with tab1:
             "cards": [
                 { "id":"1", "text": "Companies and offices owners" },
                 { "id":"2", "text": "Real estate owners and contracting companies" },
-                { "id":"3", "text": "Oweners of rental departments" }
+                { "id":"3", "text": "Owners of rental departments" }
             ]
         },
         "cost_structure": {
